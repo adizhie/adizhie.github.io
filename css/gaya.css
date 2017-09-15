@@ -33,7 +33,7 @@ padding-bottom: 50px;
 
 .tanggal{position: relative; background: #fff;}
 .tanggal:before{content: ""; position: absolute; background:url(/img/pattern.png) repeat-x; height:7px; top:-7px; left:0; width: 100%; }
-.tanggal:after{content: ""; position: absolute; background:url(/img/pattern2.png) repeat-x; height:7px; right:0; bottom:-7px; width: 100%; }
+.tanggal:after, .bawah:after{content: ""; position: absolute; background:url(/img/pattern2.png) repeat-x; height:7px; right:0; bottom:-7px; width: 100%; }
 
 
 .mempelai{background-size: cover; display: block; color: #fff; background-position: center center;  background-attachment: fixed;}
