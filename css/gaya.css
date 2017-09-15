@@ -10,7 +10,7 @@ b{font-weight: 600;} i{  font-style: italic;}
 iframe{border:none;overflow:hidden}
 
 .amp{font-family: 'Roboto Slab', sans-serif;}
-.isi{ padding-top: 60px; padding-bottom: 60px; margin:0; position:relative; }
+.isi{ padding: 20px 60px; margin:0; position:relative; }
 
 .tampilan{position:relative; padding:0; margin:0; overflow: hidden; } 
 .atas{
@@ -31,7 +31,7 @@ padding-bottom: 50px;
 
 .atas .isi{color: #fff;}
 
-.tanggal{position: relative; background: #fff; color: red;}
+.tanggal{position: relative; background: #fff;}
 .tanggal:before{content: ""; position: absolute; background:url(/img/pattern.png) repeat-x; height:7px; top:-7px; left:0; width: 100%; }
 .tanggal:after{content: ""; position: absolute; background:url(/img/pattern2.png) repeat-x; height:7px; right:0; bottom:-7px; width: 100%; }
 
@@ -58,7 +58,6 @@ padding-bottom: 50px;
 /* 11a - Tampilan = Dibawah 600px
 ---------------------------------------------------------------------------------------------------------- */
 @media screen and (max-width:600px) {
-.isi{padding-left: 20px; padding-right: 20px; }
 }
 /* 11a - Tampilan = 600px s/d 900px
 ---------------------------------------------------------------------------------------------------------- */
