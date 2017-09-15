@@ -39,10 +39,6 @@ padding-bottom: 50px;
 .mempelai{background-size: cover; display: block; color: #fff; background-position: center center;  background-attachment: fixed;}
 .laki {background-image: url(/img/laki.jpg);}
 .wanita{background-image: url(/img/wanita.jpg);}
-.data-laki{margin-right: 40%;}
-.data-wanita{margin-left: 40%}
-
-
 
 .arrum, .footer{background: #1e6c93; position: relative; color: #fff; }
 .arrum .isi{font-size: 20px; line-height: 30px; font-family: "Roboto Slab", sans-serif; font-weight: 400; letter-spacing: -1px;}
@@ -56,10 +52,6 @@ padding-bottom: 50px;
 .nama{font-size: 70px; font-weight: 200; color: #c2185b; letter-spacing: -1px; line-height: 110%;}
 .garis{background:url(/img/underline.png) no-repeat; background-position: center center; height: 55px; width: 100%;}
 
-
-
-
-
 /* Sentuhan RESPONSIVE
 ---------------------------------------------------------------------------------------------------------- */
 
@@ -71,8 +63,8 @@ padding-bottom: 50px;
 /* 11a - Tampilan = 600px s/d 900px
 ---------------------------------------------------------------------------------------------------------- */
 @media screen and (min-width:601px) { 
-
-
+.data-laki{margin-right: 40%;}
+.data-wanita{margin-left: 40%}
 }
 /* 11b - Tampilan = 900px s/d 1200px
 ---------------------------------------------------------------------------------------------------------- */
