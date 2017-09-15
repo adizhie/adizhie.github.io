@@ -46,8 +46,8 @@ padding-bottom: 50px;
 
 .arrum, .footer{background: #1e6c93; position: relative; color: #fff; }
 .arrum .isi{font-size: 20px; line-height: 30px; font-family: "Roboto Slab", sans-serif; font-weight: 400; letter-spacing: -1px;}
-.arrum:before, .footer:before{content: ""; position: absolute; background:url(img/pattern3.png) repeat-x; height:7px; top:-7px; left:0; width: 100%; }
-.arrum:after{content: ""; position: absolute; background:url(img/pattern4.png) repeat-x; height:7px; right:0; bottom:-7px; width: 100%; }
+.arrum:before, .footer:before{content: ""; position: absolute; background:url(/img/pattern3.png) repeat-x; height:7px; top:-7px; left:0; width: 100%; }
+.arrum:after{content: ""; position: absolute; background:url(/img/pattern4.png) repeat-x; height:7px; right:0; bottom:-7px; width: 100%; }
 
 .bawah{background: #ebe8de; padding-top: 50px; padding-bottom: 50px; border-bottom: 2px dashed #fff; font-weight: 400;}
 .footer{margin-top: -17px; font-size: 12px; padding:10px 0;}
