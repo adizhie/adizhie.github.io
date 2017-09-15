@@ -1,8 +1,8 @@
-body{ background-color: #FFF; margin: 0; padding: 0; border: none; font-family: "Roboto", sans-serif; font-size: 18px; font-weight: 400; line-height: 27px; text-align: center; }
-h1, h2, h3, h4, h5, h6{padding: 0; margin: 0; font-family: "Roboto Slab", sans-serif; /*font-family: "Great Vibes", sans-serif;*/  font-weight: 700; text-shadow: rgba(0, 0, 0, 0.3) 0px 2px 0px;}
+body{ background-color: #FFF; margin: 0; padding: 0; border: none; font-family: "Roboto Slab", sans-serif; font-size: 18px; font-weight: 400; line-height: 27px; text-align: center; }
+h1, h2, h3, h4, h5, h6{padding: 0; margin: 0; font-family: "Great Vibes", sans-serif; font-weight: 700; text-shadow: rgba(0, 0, 0, 0.3) 0px 2px 0px;}
 h1{font-size:120px; line-height: 120%;  }
 h2{line-height: 60px;}
-h3{font-size:60px; line-height:1.2em; color: #333; font-family: "Roboto Slab", sans-serif;}
+h3{font-size:60px; line-height:1.2em; color: #333; }
 h4{font-size:50px; line-height:1.2em; color: #999;}
 a{text-decoration:none; outline:none; font-weight: 400; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out;}
 a:link,a:visited{color:#0271c7;} a:hover{color:#adca6e;}
