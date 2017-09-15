@@ -40,7 +40,7 @@ padding-bottom: 50px;
 .laki {background-image: url(/img/laki.jpg);}
 .wanita{background-image: url(/img/wanita.jpg);}
 
-.arrum, .footer{background: #1e6c93; position: relative; color: #fff; }
+.arrum, .footer{background: #1e6c93; color: #fff; }
 .arrum .isi{font-size: 20px; line-height: 30px; font-family: "Roboto Slab", sans-serif; font-weight: 400; letter-spacing: -1px;}
 .arrum:before, .footer:before{content: ""; position: absolute; background:url(/img/pattern3.png) repeat-x; height:7px; top:-7px; left:0; width: 100%; }
 .arrum:after{content: ""; position: absolute; background:url(/img/pattern4.png) repeat-x; height:7px; right:0; bottom:-7px; width: 100%; }
